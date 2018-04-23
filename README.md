@@ -8,6 +8,8 @@
 人类总是重复着相同的错误。<br>
 还是不定时更新吧，懒得定计划了。<br>
 <hr>
+（没有标注的题目表示预定更新上去的题目）
+<hr>
 
 # 目录
 
@@ -34,3 +36,85 @@
 | <b>1016</b>	| Prime Ring Problem | DFS， 剪枝 |
 | <b>1017</b>	| A Mathematical Curiosity | 枚举， 注意格式 |
 | <b>1018</b> | Big Number | 斯特林近似公式 |
+| <b>1018</b> | Big Number |  |
+| <b>1019</b> | Least Common Multiple |  |
+| <b>1020</b> | Encoding |  |
+| <b>1021</b> | Fibonacci Again |  |
+| <b>1022</b> | Train Problem I |  |
+| <b>1023</b> | Train Problem II |  |
+| <b>1024</b> | Max Sum Plus Plus |  |
+| <b>1025</b> | Constructing Roads In JGShining's Kingdom |  |
+| <b>1026</b> | Ignatius and the Princess I |  |
+| <b>1027</b> | Ignatius and the Princess II |  |
+| <b>1028</b> | Ignatius and the Princess III |  |
+| <b>1029</b> | Ignatius and the Princess IV |  |
+| <b>1030</b> | Delta-wave |  |
+| <b>1031</b> | Design T-Shirt |  |
+| <b>1032</b> | The 3n + 1 problem |  |
+| <b>1033</b> | Edge |  |
+| <b>1034</b> | Candy Sharing Game |  |
+| <b>1035</b> | Robot Motion |  |
+| <b>1036</b> | Average is not Fast Enough! |  |
+| <b>1037</b> | Keep on Truckin' |  |
+| <b>1038</b> | Biker's Trip Odometer |  |
+| <b>1039</b> | Easier Done Than Said? |  |
+| <b>1040</b> | As Easy As A+B |  |
+| <b>1041</b> | Computer Transformation |  |
+| <b>1042</b> | N! |  |
+| <b>1043</b> | Eight |  |
+| <b>1044</b> | Collect More Jewels |  |
+| <b>1045</b> | Fire Net |  |
+| <b>1046</b> | Gridland |  |
+| <b>1047</b> | Integer Inquiry |  |
+| <b>1048</b> | The Hardest Problem Ever |  |
+| <b>1049</b> | Climbing Worm |  |
+| <b>1050</b> | Moving Tables |  |
+| <b>1051</b> | Wooden Sticks |  |
+| <b>1052</b> | Tian Ji -- The Horse Racing |  |
+| <b>1053</b> | Entropy |  |
+| <b>1054</b> | Strategic Game |  |
+| <b>1055</b> | Color a Tree |  |
+| <b>1056</b> | HangOver |  |
+| <b>1057</b> | A New Growth Industry |  |
+| <b>1058</b> | Humble Numbers |  |
+| <b>1059</b> | Dividing |  |
+| <b>1060</b> | Leftmost Digit |  |
+| <b>1061</b> | Rightmost Digit |  |
+| <b>1062</b> | Text Reverse |  |
+| <b>1063</b> | Exponentiation |  |
+| <b>1064</b> | Financial Management |  |
+| <b>1065</b> | I Think I Need a Houseboat |  |
+| <b>1066</b> | Last non-zero Digit in N! |  |
+| <b>1067</b> | Gap |  |
+| <b>1068</b> | Girls and Boys |  |
+| <b>1069</b> | Monkey and Banana |  |
+| <b>1070</b> | Milk |  |
+| <b>1071</b> | The area |  |
+| <b>1072</b> | Nightmare |  |
+| <b>1073</b> | Online Judge |  |
+| <b>1074</b> | Doing Homework |  |
+| <b>1075</b> | What Are You Talking About |  |
+| <b>1076</b> | An Easy Task |  |
+| <b>1077</b> | Catching Fish |  |
+| <b>1078</b> | FatMouse and Cheese |  |
+| <b>1079</b> | Calendar Game |  |
+| <b>1080</b> | Human Gene Functions |  |
+| <b>1081</b> | To The Max |  |
+| <b>1082</b> | Matrix Chain Multiplication |  |
+| <b>1083</b> | Courses |  |
+| <b>1084</b> | What Is Your Grade? |  |
+| <b>1085</b> | Holding Bin-Laden Captive! |  |
+| <b>1086</b> | You can Solve a Geometry Problem too |  |
+| <b>1087</b> | Super Jumping! Jumping! Jumping! |  |
+| <b>1088</b> | Write a simple HTML Browser |  |
+| <b>1089</b> | A+B for Input-Output Practice (I) |  |
+| <b>1090</b> | A+B for Input-Output Practice (II) |  |
+| <b>1091</b> | A+B for Input-Output Practice (III) |  |
+| <b>1092</b> | A+B for Input-Output Practice (IV) |  |
+| <b>1093</b> | A+B for Input-Output Practice (V) |  |
+| <b>1094</b> | A+B for Input-Output Practice (VI) |  |
+| <b>1095</b> | A+B for Input-Output Practice (VII) |  |
+| <b>1096</b> | A+B for Input-Output Practice (VIII) |  |
+| <b>1097</b> | A hard puzzle |  |
+| <b>1098</b> | Ignatius's puzzle |  |
+| <b>1099</b> | Lottery |  |
