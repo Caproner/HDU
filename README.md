@@ -25,3 +25,12 @@
 | <b>1007</b> | Quoit Design | 计算几何， 最近点对问题， 模板题 |
 | <b>1008</b> | Elevator | 模拟， 推公式 |
 | <b>1009</b> | FatMouse' Trade | 贪心 |
+| <b>1010</b> | Tempter of the Bone | DFS |
+| <b>1011</b>	| Starship Troopers | 树上DP |
+| <b>1012</b>	| u Calculate e | 外部打表， 数学计算， 直接输出 |
+| <b>1013</b>	| Digital Roots | 模拟， 直接做系列 |
+| <b>1014</b> | Uniform Generator | 找规律， GCD |
+| <b>1015</b>	| Safecracker | DFS |
+| <b>1016</b>	| Prime Ring Problem | DFS， 剪枝 |
+| <b>1017</b>	| A Mathematical Curiosity | 枚举， 注意格式 |
+| <b>1018</b> | Big Number | 斯特林近似公式 |
