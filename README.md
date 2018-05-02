@@ -36,18 +36,17 @@
 | <b>1016</b>	| Prime Ring Problem | DFS， 剪枝 |
 | <b>1017</b>	| A Mathematical Curiosity | 枚举， 注意格式 |
 | <b>1018</b> | Big Number | 斯特林近似公式 |
-| <b>1018</b> | Big Number |  |
-| <b>1019</b> | Least Common Multiple |  |
-| <b>1020</b> | Encoding |  |
-| <b>1021</b> | Fibonacci Again |  |
-| <b>1022</b> | Train Problem I |  |
-| <b>1023</b> | Train Problem II |  |
-| <b>1024</b> | Max Sum Plus Plus |  |
-| <b>1025</b> | Constructing Roads In JGShining's Kingdom |  |
-| <b>1026</b> | Ignatius and the Princess I |  |
-| <b>1027</b> | Ignatius and the Princess II |  |
-| <b>1028</b> | Ignatius and the Princess III |  |
-| <b>1029</b> | Ignatius and the Princess IV |  |
+| <b>1019</b> | Least Common Multiple | 最小公倍数 |
+| <b>1020</b> | Encoding | 字符串， 模拟 |
+| <b>1021</b> | Fibonacci Again | 推公式， 找规律 |
+| <b>1022</b> | Train Problem I | 模拟， 栈， DFS |
+| <b>1023</b> | Train Problem II | 打表， 高精度运算 |
+| <b>1024</b> | Max Sum Plus Plus | m个最大子序列和， DP， 滚动数组优化 |
+| <b>1025</b> | Constructing Roads In JGShining's Kingdom | 最长上升子序列， DP， 二分优化 |
+| <b>1026</b> | Ignatius and the Princess I | BFS， 路径记录 |
+| <b>1027</b> | Ignatius and the Princess II | 康托展开 |
+| <b>1028</b> | Ignatius and the Princess III | 预处理 |
+| <b>1029</b> | Ignatius and the Princess IV | 排序 |
 | <b>1030</b> | Delta-wave |  |
 | <b>1031</b> | Design T-Shirt |  |
 | <b>1032</b> | The 3n + 1 problem |  |
