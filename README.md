@@ -1,6 +1,6 @@
 # HDU_Solution
 <p>
-  直到现在退役了才知道怎么用github<br>
+  直到现在退役了才知道怎么用git<br>
   于是就想着将自己以前写的一些题的代码搬上来<br>
   于是就有了这个Repository
 </p>
