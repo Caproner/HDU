@@ -61,17 +61,17 @@
 | <b>1056</b> | HangOver | 数学计算 |
 | <b>1057</b> | A New Growth Industry | 模拟， 阅读理解 |
 | <b>1058</b> | Humble Numbers | 打表预处理 |
-| <b>1059</b> | Dividing |  |
-| <b>1060</b> | Leftmost Digit |  |
-| <b>1061</b> | Rightmost Digit |  |
-| <b>1062</b> | Text Reverse |  |
-| <b>1063</b> | Exponentiation |  |
-| <b>1064</b> | Financial Management |  |
-| <b>1065</b> | I Think I Need a Houseboat |  |
-| <b>1066</b> | Last non-zero Digit in N! |  |
-| <b>1067</b> | Gap |  |
-| <b>1068</b> | Girls and Boys |  |
-| <b>1069</b> | Monkey and Banana |  |
+| <b>1059</b> | Dividing | 多重背包， DP |
+| <b>1060</b> | Leftmost Digit | 数学计算 |
+| <b>1061</b> | Rightmost Digit | 暴力， 分情况讨论 |
+| <b>1062</b> | Text Reverse | 字符串处理 |
+| <b>1063</b> | Exponentiation | 高精度求幂 |
+| <b>1064</b> | Financial Management | 求平均数 |
+| <b>1065</b> | I Think I Need a Houseboat | 数学计算 |
+| <b>1066</b> | Last non-zero Digit in N! | 高精度， 数学计算 |
+| <b>1067</b> | Gap | 哈希， BFS |
+| <b>1068</b> | Girls and Boys | 最大点独立集， 二分图匹配 |
+| <b>1069</b> | Monkey and Banana | 枚举， DP |
 | <b>1070</b> | Milk |  |
 | <b>1071</b> | The area |  |
 | <b>1072</b> | Nightmare |  |
