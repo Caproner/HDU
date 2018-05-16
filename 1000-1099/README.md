@@ -48,19 +48,19 @@
 | <b>1043</b> | Eight | 八数码问题， A\*算法， IDA\* |
 | <b>1044</b> | Collect More Jewels | BFS |
 | <b>1045</b> | Fire Net | 二分图匹配 |
-| <b>1046</b> | Gridland |  |
-| <b>1047</b> | Integer Inquiry |  |
-| <b>1048</b> | The Hardest Problem Ever |  |
-| <b>1049</b> | Climbing Worm |  |
-| <b>1050</b> | Moving Tables |  |
-| <b>1051</b> | Wooden Sticks |  |
-| <b>1052</b> | Tian Ji -- The Horse Racing |  |
-| <b>1053</b> | Entropy |  |
-| <b>1054</b> | Strategic Game |  |
-| <b>1055</b> | Color a Tree |  |
-| <b>1056</b> | HangOver |  |
-| <b>1057</b> | A New Growth Industry |  |
-| <b>1058</b> | Humble Numbers |  |
+| <b>1046</b> | Gridland | 找规律 |
+| <b>1047</b> | Integer Inquiry | 高精度加法 |
+| <b>1048</b> | The Hardest Problem Ever | 模拟 |
+| <b>1049</b> | Climbing Worm | 模拟 |
+| <b>1050</b> | Moving Tables | 贪心 |
+| <b>1051</b> | Wooden Sticks | 贪心 |
+| <b>1052</b> | Tian Ji -- The Horse Racing | 贪心， 记忆化搜索， 模拟 |
+| <b>1053</b> | Entropy | 哈夫曼树 |
+| <b>1054</b> | Strategic Game | 最小顶点覆盖， 二分图匹配 |
+| <b>1055</b> | Color a Tree | 树上贪心 |
+| <b>1056</b> | HangOver | 数学计算 |
+| <b>1057</b> | A New Growth Industry | 模拟， 阅读理解 |
+| <b>1058</b> | Humble Numbers | 打表预处理 |
 | <b>1059</b> | Dividing |  |
 | <b>1060</b> | Leftmost Digit |  |
 | <b>1061</b> | Rightmost Digit |  |
