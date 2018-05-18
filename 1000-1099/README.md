@@ -72,16 +72,16 @@
 | <b>1067</b> | Gap | 哈希， BFS |
 | <b>1068</b> | Girls and Boys | 最大点独立集， 二分图匹配 |
 | <b>1069</b> | Monkey and Banana | 枚举， DP |
-| <b>1070</b> | Milk |  |
-| <b>1071</b> | The area |  |
-| <b>1072</b> | Nightmare |  |
-| <b>1073</b> | Online Judge |  |
-| <b>1074</b> | Doing Homework |  |
-| <b>1075</b> | What Are You Talking About |  |
-| <b>1076</b> | An Easy Task |  |
-| <b>1077</b> | Catching Fish |  |
-| <b>1078</b> | FatMouse and Cheese |  |
-| <b>1079</b> | Calendar Game |  |
+| <b>1070</b> | Milk | 模拟 |
+| <b>1071</b> | The area | 数学计算， 微积分 |
+| <b>1072</b> | Nightmare | BFS |
+| <b>1073</b> | Online Judge | 模拟 |
+| <b>1074</b> | Doing Homework | 状压DP |
+| <b>1075</b> | What Are You Talking About | map |
+| <b>1076</b> | An Easy Task | 模拟 |
+| <b>1077</b> | Catching Fish | 计算几何， 枚举 |
+| <b>1078</b> | FatMouse and Cheese | 记忆化搜索 |
+| <b>1079</b> | Calendar Game | 博弈论， 搜索 |
 | <b>1080</b> | Human Gene Functions |  |
 | <b>1081</b> | To The Max |  |
 | <b>1082</b> | Matrix Chain Multiplication |  |
