@@ -82,23 +82,23 @@
 | <b>1077</b> | Catching Fish | 计算几何， 枚举 |
 | <b>1078</b> | FatMouse and Cheese | 记忆化搜索 |
 | <b>1079</b> | Calendar Game | 博弈论， 搜索 |
-| <b>1080</b> | Human Gene Functions |  |
-| <b>1081</b> | To The Max |  |
-| <b>1082</b> | Matrix Chain Multiplication |  |
-| <b>1083</b> | Courses |  |
-| <b>1084</b> | What Is Your Grade? |  |
-| <b>1085</b> | Holding Bin-Laden Captive! |  |
-| <b>1086</b> | You can Solve a Geometry Problem too |  |
-| <b>1087</b> | Super Jumping! Jumping! Jumping! |  |
-| <b>1088</b> | Write a simple HTML Browser |  |
-| <b>1089</b> | A+B for Input-Output Practice (I) |  |
-| <b>1090</b> | A+B for Input-Output Practice (II) |  |
-| <b>1091</b> | A+B for Input-Output Practice (III) |  |
-| <b>1092</b> | A+B for Input-Output Practice (IV) |  |
-| <b>1093</b> | A+B for Input-Output Practice (V) |  |
-| <b>1094</b> | A+B for Input-Output Practice (VI) |  |
-| <b>1095</b> | A+B for Input-Output Practice (VII) |  |
-| <b>1096</b> | A+B for Input-Output Practice (VIII) |  |
+| <b>1080</b> | Human Gene Functions | DP， 最长公共子序列 |
+| <b>1081</b> | To The Max | DP， 最大连续和 |
+| <b>1082</b> | Matrix Chain Multiplication | 模拟， 栈 |
+| <b>1083</b> | Courses | 二分图匹配 |
+| <b>1084</b> | What Is Your Grade? | 排序， 模拟 |
+| <b>1085</b> | Holding Bin-Laden Captive! | 母函数， 多重背包 |
+| <b>1086</b> | You can Solve a Geometry Problem too | 计算几何 |
+| <b>1087</b> | Super Jumping! Jumping! Jumping! | DP |
+| <b>1088</b> | Write a simple HTML Browser | 模拟， 格式坑 |
+| <b>1089</b> | A+B for Input-Output Practice (I) | 新手上路 |
+| <b>1090</b> | A+B for Input-Output Practice (II) | 新手上路 |
+| <b>1091</b> | A+B for Input-Output Practice (III) | 新手上路 |
+| <b>1092</b> | A+B for Input-Output Practice (IV) | 新手上路 |
+| <b>1093</b> | A+B for Input-Output Practice (V) | 新手上路 |
+| <b>1094</b> | A+B for Input-Output Practice (VI) | 新手上路 |
+| <b>1095</b> | A+B for Input-Output Practice (VII) | 新手上路 |
+| <b>1096</b> | A+B for Input-Output Practice (VIII) | 新手上路 |
 | <b>1097</b> | A hard puzzle |  |
 | <b>1098</b> | Ignatius's puzzle |  |
 | <b>1099</b> | Lottery |  |
