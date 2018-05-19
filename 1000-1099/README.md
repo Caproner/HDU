@@ -99,6 +99,6 @@
 | <b>1094</b> | A+B for Input-Output Practice (VI) | 新手上路 |
 | <b>1095</b> | A+B for Input-Output Practice (VII) | 新手上路 |
 | <b>1096</b> | A+B for Input-Output Practice (VIII) | 新手上路 |
-| <b>1097</b> | A hard puzzle |  |
-| <b>1098</b> | Ignatius's puzzle |  |
-| <b>1099</b> | Lottery |  |
+| <b>1097</b> | A hard puzzle | 打表， 快速幂 |
+| <b>1098</b> | Ignatius's puzzle | 数学计算， 数学归纳法 |
+| <b>1099</b> | Lottery | 格式， 模拟， 数学计算 |
