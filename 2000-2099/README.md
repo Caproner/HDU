@@ -51,16 +51,16 @@
 | <b>2047</b> | 阿牛的EOF牛肉串 | DP， 找规律， 推公式 |
 | <b>2048</b> | 神、上帝以及老天爷 | 错排公式 |
 | <b>2049</b> | 不容易系列之(4)——考新郎 | 错排公式 |
-| <b>2050</b> | 折线分割平面 |  |
-| <b>2051</b> | Bitset |  |
-| <b>2052</b> | Picture |  |
-| <b>2053</b> | Switch Game |  |
-| <b>2054</b> | A == B ? |  |
-| <b>2055</b> | An easy problem |  |
-| <b>2056</b> | Rectangles |  |
-| <b>2057</b> | A + B Again |  |
-| <b>2058</b> | The sum problem |  |
-| <b>2059</b> | 龟兔赛跑 |  |
+| <b>2050</b> | 折线分割平面 | 找规律， 推公式 |
+| <b>2051</b> | Bitset | 推公式 |
+| <b>2052</b> | Picture | 模拟， 画图 |
+| <b>2053</b> | Switch Game | 模拟， 找规律 |
+| <b>2054</b> | A == B ? | 模拟， 字符串， 注意细节 |
+| <b>2055</b> | An easy problem | 模拟 |
+| <b>2056</b> | Rectangles | 数学计算 |
+| <b>2057</b> | A + B Again | 模拟， 字符串 |
+| <b>2058</b> | The sum problem | 数学计算， 等差数列求和 |
+| <b>2059</b> | 龟兔赛跑 | DP |
 | <b>2060</b> | Snooker |  |
 | <b>2061</b> | Treasure the new start, freshmen! |  |
 | <b>2062</b> | Subset sequence |  |
